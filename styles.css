@@ -4,7 +4,7 @@ body {
   }
   h1,
   p,
-  marquee {
+  marquee,nav {
     border: 2px solid rgb(0, 0, 0);
     margin: auto;
     background-color: rgb(171, 130, 163);
