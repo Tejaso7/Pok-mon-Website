@@ -12,6 +12,21 @@ body {
     padding: 10px;
     box-shadow: 10px 10px 10px 10px rgb(22, 22, 22);
   }
+  nav{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+  nav a{
+    border: 3px solid orange;
+    box-shadow: 2px 2px 1px 1px rgb(78, 59, 23);
+    border-radius: 25px;
+    padding: 10PX;
+    margin: auto;
+  }
+  nav a:hover{
+    background-color:rgb(222, 160, 80);
+  }
   img {
     width: 250px;
     margin: auto;
